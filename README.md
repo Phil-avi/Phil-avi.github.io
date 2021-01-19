@@ -1,5 +1,5 @@
 # Data Analyst/Data Scientist Portfolio 
-This is where I show my work.(please enter the repo to read the full description of the project)
+The place where I share my work.(please enter the repo to read the full description of the project)
 ## Stand-alone Projects
 ### [Airbnb Analysis Dashboard](https://github.com/Phil-avi/Airbnb-Covid-Analysis)
 An interactive [dashboard](https://movie-recommendation-phil.herokuapp.com/) built with dash and plotly to study the impact of Covid-19 locakdowns on Airbnb hosts within Australia. this project utilised a fairly large dataset mainly scraped from Inside Airbnb. Dask was used for parallel processing and gunicorn was added as the WSGI server.
